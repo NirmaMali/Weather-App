@@ -1,5 +1,8 @@
-Welcome to your beautifully styled **Weather Forecast App**!
-Search for any city, check real-time weather, and view a multi-day forecast — all in a responsive pink & white design with toggleable **light/dark modes**.
+# 🌦 Weather App
+A modern, sleek, and responsive *Weather Forecast App* that lets users search for any city and get *current weather* details and a *3-day forecast, with an elegant UI, **dark/light mode toggle, and support for both **Celsius and Fahrenheit* units.
+
+Welcome to your **Weather Forecast App**!
+Search for any city, check real-time weather, and view a multi-day forecast —  Toggleable **light/dark modes**.
 
 ---
 
@@ -7,6 +10,7 @@ Search for any city, check real-time weather, and view a multi-day forecast — 
 
 * [Features](#features)
 * [Getting Started](#getting-started)
+* [Preview](#preview)
 * [How To Use](#how-to-use)
 * [Built With](#built-with)
 * [Project Structure](#project-structure)
@@ -21,7 +25,7 @@ Search for any city, check real-time weather, and view a multi-day forecast — 
 * 🌡️ View current temperature in **Celsius and Fahrenheit**
 * 🌤️ See **3-day forecast** with weather icons
 * 📅 Detailed info: humidity, wind speed, conditions
-* 🌓 **Toggle between light and dark themes** (pink & white aesthetic)
+* 🌓 **Toggle between light and dark themes** 
 * ⚡ Display error if location is not found
 * 📱 Fully responsive design (desktop, tablet, mobile)
 
@@ -44,6 +48,10 @@ Follow these simple steps to get your Weather App running:
 3. You're all set! 🌈
 
 ---
+## 🖼 Preview
+![WhatsApp Image 2025-06-14 at 20 30 06_71d91f06](https://github.com/user-attachments/assets/6492c020-134e-4ffb-b8d0-e7224570b754)
+![WhatsApp Image 2025-06-14 at 20 30 06_261e26d3](https://github.com/user-attachments/assets/ef286448-3e5d-4d89-8ee3-23e0e7e0930e)
+
 
 ## 🖱️ How To Use
 
@@ -89,7 +97,9 @@ Follow these simple steps to get your Weather App running:
 ## 📬 Contact
 
 Created with ❤️ by **Nirma Mali**
+
 📧 Email: [nirmamali8618@gmail.com](mailto:nirmamali8618@gmail.com)
+
 🔗 GitHub: [github.com/NirmaMali](https://github.com/NirmaMali)
 
 > Thank you for using this Weather App — may every day be clear and bright! ☀️🌈
