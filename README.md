@@ -1,7 +1,3 @@
-
-
-# 🌸 Pink-Themed Weather Web App 🌸
-
 Welcome to your beautifully styled **Weather Forecast App**!
 Search for any city, check real-time weather, and view a multi-day forecast — all in a responsive pink & white design with toggleable **light/dark modes**.
 
@@ -21,7 +17,7 @@ Search for any city, check real-time weather, and view a multi-day forecast — 
 
 ## ✨ Features
 
-* 🔍 Search weather by city name
+* 🔍 Search the weather by city name
 * 🌡️ View current temperature in **Celsius and Fahrenheit**
 * 🌤️ See **3-day forecast** with weather icons
 * 📅 Detailed info: humidity, wind speed, conditions
@@ -52,7 +48,7 @@ Follow these simple steps to get your Weather App running:
 ## 🖱️ How To Use
 
 * **Search Weather**: Type any city name (e.g. *New York*) and click **Get Weather**.
-* **Current Info**: View temperature, weather condition, humidity, wind.
+* **Current Info**: View temperature, weather condition, humidity and wind.
 * **Forecast**: Scroll down to see the next **3 days** with icons and min/max temperature.
 * **Dark/Light Mode**: Use the toggle 🌙/☀️ at the **top-right corner**.
 * **Responsive**: Works great on mobile and desktop!
@@ -83,7 +79,7 @@ Follow these simple steps to get your Weather App running:
 
 * 📍 Auto-location detection using Geolocation API
 * 📊 Hourly chart view using Chart.js
-* 🧠 AI-based weather suggestions (e.g., carry umbrella)
+* 🧠 AI-based weather suggestions (e.g., carry an umbrella)
 * ☁️ Dynamic backgrounds based on current weather
 * 💾 Save recent searches in localStorage
 * 🌐 Add multi-language support
@@ -99,10 +95,3 @@ Created with ❤️ by **Nirma Mali**
 > Thank you for using this Weather App — may every day be clear and bright! ☀️🌈
 
 ---
-
-Let me know if you'd like:
-
-* A version with deployment instructions (e.g., for GitHub Pages or Netlify)
-* A badge-ready version for GitHub with preview GIF/image
-
-Happy coding! 🌸
