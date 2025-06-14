@@ -1,42 +1,108 @@
-# 🌦️ Weather App
 
-A modern, sleek, and responsive **Weather Forecast App** that lets users search for any city and get **current weather** details and a **3-day forecast**, with an elegant UI, **dark/light mode toggle**, and support for both **Celsius and Fahrenheit** units.
 
----
+# 🌸 Pink-Themed Weather Web App 🌸
 
-## 🚀 Features
-
-- 🔍 **City-Based Search** – Enter any city or location to fetch live weather data
-- 🌡️ **Current Temperature** – View weather in °C and °F with condition icons
-- 📆 **3-Day Forecast** – Detailed forecast with min/max temperatures & conditions
-- 🌓 **Dark/Light Mode** – Toggle UI theme easily (top-right corner)
-- 📱 **Responsive UI** – Looks great on desktop, tablet, and mobile
+Welcome to your beautifully styled **Weather Forecast App**!
+Search for any city, check real-time weather, and view a multi-day forecast — all in a responsive pink & white design with toggleable **light/dark modes**.
 
 ---
 
-## 🖼️ Preview
+## 📚 Table of Contents
 
-![image](https://github.com/user-attachments/assets/41d68499-00bc-4c33-81ee-35b24603363b)
-![image](https://github.com/user-attachments/assets/38546338-a71b-404e-b292-1262ac576660)
-
-
-
----
-
-## 📁 Project Structure
-- WeatherApp/
-- ├── index.html # App structure and layout
-- ├── style.css # Styling for UI, themes, responsiveness
-- └── script.js # Fetches weather and forecast data from API
-
+* [Features](#features)
+* [Getting Started](#getting-started)
+* [How To Use](#how-to-use)
+* [Built With](#built-with)
+* [Project Structure](#project-structure)
+* [Future Enhancements](#future-enhancements)
+* [Contact](#contact)
 
 ---
 
-## 🌐 API Used
-WeatherAPI.com
+## ✨ Features
 
-Endpoint:
-      http://api.weatherapi.com/v1/forecast.json?key=YOUR_API_KEY&q=LOCATION&days=3
-This app uses a test API key:
-      f1484f13d6a44c5cb95113242251406
-(Note: For production, replace with your own API key.)
+* 🔍 Search weather by city name
+* 🌡️ View current temperature in **Celsius and Fahrenheit**
+* 🌤️ See **3-day forecast** with weather icons
+* 📅 Detailed info: humidity, wind speed, conditions
+* 🌓 **Toggle between light and dark themes** (pink & white aesthetic)
+* ⚡ Display error if location is not found
+* 📱 Fully responsive design (desktop, tablet, mobile)
+
+---
+
+## 🚀 Getting Started
+
+Follow these simple steps to get your Weather App running:
+
+1. **Clone or download** the repository:
+
+   ```bash
+   git clone https://github.com/NirmaMali/Weather-App.git
+   cd Weather-App
+   ```
+
+2. **Open the app**
+   Simply double-click `index.html` or open it in your browser.
+
+3. You're all set! 🌈
+
+---
+
+## 🖱️ How To Use
+
+* **Search Weather**: Type any city name (e.g. *New York*) and click **Get Weather**.
+* **Current Info**: View temperature, weather condition, humidity, wind.
+* **Forecast**: Scroll down to see the next **3 days** with icons and min/max temperature.
+* **Dark/Light Mode**: Use the toggle 🌙/☀️ at the **top-right corner**.
+* **Responsive**: Works great on mobile and desktop!
+
+---
+
+## 🛠️ Built With
+
+* **JavaScript (ES6+)** — Fetch API, DOM manipulation
+* **HTML5** — Semantic and accessible markup
+* **CSS3** — Flexbox, Grid, and custom themes
+* **[WeatherAPI](https://www.weatherapi.com/)** — Real-time weather data
+
+---
+
+## 🗂️ Project Structure
+
+```
+/ (root folder)
+├── index.html       # Main HTML structure
+├── style.css        # CSS styling and theme definitions
+└── script.js        # JS for fetching weather and toggling UI
+```
+
+---
+
+## 🔮 Future Enhancements
+
+* 📍 Auto-location detection using Geolocation API
+* 📊 Hourly chart view using Chart.js
+* 🧠 AI-based weather suggestions (e.g., carry umbrella)
+* ☁️ Dynamic backgrounds based on current weather
+* 💾 Save recent searches in localStorage
+* 🌐 Add multi-language support
+
+---
+
+## 📬 Contact
+
+Created with ❤️ by **Nirma Mali**
+📧 Email: [nirmamali8618@gmail.com](mailto:nirmamali8618@gmail.com)
+🔗 GitHub: [github.com/NirmaMali](https://github.com/NirmaMali)
+
+> Thank you for using this Weather App — may every day be clear and bright! ☀️🌈
+
+---
+
+Let me know if you'd like:
+
+* A version with deployment instructions (e.g., for GitHub Pages or Netlify)
+* A badge-ready version for GitHub with preview GIF/image
+
+Happy coding! 🌸
