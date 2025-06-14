@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Weather App</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body class="dark">
+  <div class="top-bar">
+    <h1>🌤 Weather App</h1>
+    <label class="theme-toggle">
+      <input type="checkbox" id="themeToggle" onchange="toggleTheme()">
+      <span class="slider"></span>
+    </label>
+  </div>
+
+  <div class="container">
+    <input type="text" id="locationInput" placeholder="Enter a location (e.g. London)" />
+    <button onclick="getWeather()">Get Weather</button>
+
+    <div id="weatherResult" class="weather-box"></div>
+    <div id="forecastBox" class="forecast-box"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
